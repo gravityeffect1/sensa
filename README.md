@@ -1,3 +1,4 @@
+![Logo](Sensa.png)
 # sensa
 Fighting cervical cancer misinformation in Romania with Gemma 4
 
