@@ -13,7 +13,7 @@ Sensa is a conversational health education assistant powered by Gemma 4. It spea
 Four-layer pipeline: deterministic safety → myth RAG → constrained Gemma 4 E4B → response validation.
 
 ## How to run
-1. Open `sensa.ipynb` in Kaggle
+1. Open [`sensa-9.ipynb`](sensa-9.ipynb) in Kaggle
 2. Attach Gemma 4 E4B model from Kaggle Models
 3. Enable GPU T4 accelerator
 4. Run All
